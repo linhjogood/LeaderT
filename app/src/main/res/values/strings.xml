@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LeadertechApp8</string>
+    <string name="title_home">PC</string>
+    <string name="title_dashboard">Camera</string>
+    <string name="title_notifications">Others</string>
+    <string name="new_arrival">New Arrival</string>
+</resources>
